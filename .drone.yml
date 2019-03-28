@@ -35,4 +35,4 @@ steps:
 volumes:
   - name: reports
     host:
-      path: /home/dev/work/src/github.com/clevertrack1/drone-go-git-test/reports
+      path: /home/soniclean/users/paul/projects/drone/drone-go-git-test/reports
